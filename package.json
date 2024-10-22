@@ -3,7 +3,7 @@
   "description": "",
   "version": "1.0.0",
   "dependencies": {
-    "bitcoinjs-lib": "5.2.0",
+    "bitcoinjs-lib": "6.0.0",
     "identicon.js": "2.3.3",
     "uglifyjs": "^2.4.11",
     "litecore-lib": "0.13.22"
